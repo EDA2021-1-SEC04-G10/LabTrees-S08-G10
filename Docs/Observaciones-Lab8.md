@@ -31,4 +31,4 @@ def getCrimesByRange(analyzer, initialDate, finalDate):
     return totcrimes
 ```
 
-La función ```values()``` del ADT orderedmap recibe por parámetro el map ordenado y un rango dado por un límite inferior ```keylo``` y un límite superior ```keyhi```.
+La función ```values(map, keylo, keyhi)``` del ADT orderedmap recibe por parámetro el map ordenado y un rango dado por un límite inferior ```keylo``` y un límite superior ```keyhi```.
