@@ -1,4 +1,4 @@
-# Laboratorio No. 8 :leaves:
+# Laboratorio No. :8ball:
 
 ## Autores :writing_hand:
 * Hernán Buitrago 
