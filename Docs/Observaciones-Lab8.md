@@ -12,7 +12,7 @@ está dada por las fórmulas ```n = 2^(h+1)-1``` que determina el número máxim
 
 Pese a que la tabla de hash permite acceder a los valores de una llave en una complejidad constante ```O(1)```, para realizar esta consulta se tendría que acceder a cada llave y verificar
 si se encuentra dentro del rango, de modo que la complejidad de esta consulta resultaría ser lineal ```O(n)``` en el peor de los casos. En ese sentido, el BST garantiza una complejidad temporal menor para esta 
-consulta al encontrarse organizados por llaves.
+consulta al encontrarse ordenadas por llaves.
 
 **3. ¿Qué operación del TAD se utiliza para retornar una lista con la información encontrada en un rango de fechas?**
 
